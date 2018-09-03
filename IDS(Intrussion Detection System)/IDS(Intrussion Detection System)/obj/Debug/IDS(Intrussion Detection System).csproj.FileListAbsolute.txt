@@ -1,0 +1,11 @@
+C:\Users\tamanna\Desktop\Coding\C# Projects\IDS(Intrussion Detection System)\IDS(Intrussion Detection System)\obj\Debug\IDS(Intrussion Detection System).csprojResolveAssemblyReference.cache
+C:\Users\tamanna\Desktop\Coding\C# Projects\IDS(Intrussion Detection System)\IDS(Intrussion Detection System)\obj\Debug\IDS_Intrussion_Detection_System_.Properties.Resources.resources
+C:\Users\tamanna\Desktop\Coding\C# Projects\IDS(Intrussion Detection System)\IDS(Intrussion Detection System)\obj\Debug\IDS(Intrussion Detection System).csproj.GenerateResource.Cache
+C:\Users\tamanna\Desktop\Coding\C# Projects\IDS(Intrussion Detection System)\IDS(Intrussion Detection System)\obj\Debug\IDS(Intrussion Detection System).csproj.CoreCompileInputs.cache
+C:\Users\tamanna\Desktop\Coding\C# Projects\IDS(Intrussion Detection System)\IDS(Intrussion Detection System)\bin\Debug\IDS(Intrussion Detection System).exe.config
+C:\Users\tamanna\Desktop\Coding\C# Projects\IDS(Intrussion Detection System)\IDS(Intrussion Detection System)\bin\Debug\IDS(Intrussion Detection System).exe
+C:\Users\tamanna\Desktop\Coding\C# Projects\IDS(Intrussion Detection System)\IDS(Intrussion Detection System)\bin\Debug\IDS(Intrussion Detection System).pdb
+C:\Users\tamanna\Desktop\Coding\C# Projects\IDS(Intrussion Detection System)\IDS(Intrussion Detection System)\obj\Debug\IDS(Intrussion Detection System).exe
+C:\Users\tamanna\Desktop\Coding\C# Projects\IDS(Intrussion Detection System)\IDS(Intrussion Detection System)\obj\Debug\IDS(Intrussion Detection System).pdb
+C:\Users\tamanna\Desktop\Coding\C# Projects\IDS(Intrussion Detection System)\IDS(Intrussion Detection System)\obj\Debug\IDS_Intrussion_Detection_System_.UserInterface.Components.FileLogItem.resources
+C:\Users\tamanna\Desktop\Coding\C# Projects\IDS(Intrussion Detection System)\IDS(Intrussion Detection System)\obj\Debug\IDS_Intrussion_Detection_System_.UserInterface.FileIDS.resources

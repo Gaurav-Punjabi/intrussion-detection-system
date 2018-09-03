@@ -1,0 +1,1 @@
+<remove name="Test2.txt" path="Test1.txt">Test1.txt</remove>
